@@ -16,3 +16,7 @@ I love technology and enjoy learning about how it works. I'm always curious to e
 ## Final Note
 
 I'm open to collaborate and work with builders.
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kxgen" />
+</p>
